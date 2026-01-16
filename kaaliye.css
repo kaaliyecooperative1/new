@@ -8,6 +8,11 @@ body {
     margin: 0 auto;   /* centers it on desktop */
     overflow-x: hidden; /* prevents horizontal scrolling */
 }
+@media (max-width: 768px) {
+    .mobile-only {
+        display: block;
+    }
+}
 
 
         .head_right{
@@ -166,6 +171,7 @@ section {
         
 
         
+
 
 
 
