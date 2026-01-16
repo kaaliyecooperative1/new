@@ -6,14 +6,14 @@
 body {
     max-width: 480px; /* typical mobile width */
     margin: 0 auto;   /* centers it on desktop */
- 
+    overflow-x: hidden; /* prevents horizontal scrolling */
 }
 body{
             margin: 0;
             font-family: Arial,sans-serif;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            vertical: 100vh;
             
         }
 
@@ -172,6 +172,7 @@ section {
         
 
         
+
 
 
 
