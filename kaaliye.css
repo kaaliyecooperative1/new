@@ -4,7 +4,7 @@
 
         }
 body {
-    max-width: 480px; /* typical mobile width */
+    max-width: 600px; /* typical mobile width */
     margin: 0 auto;   /* centers it on desktop */
     overflow-x: hidden; /* prevents horizontal scrolling */
 }
@@ -14,6 +14,7 @@ body{
             justify-content: center;
             align-items: center;
             vertical: 100vh;
+            horizental:100vh;
             
         }
 
@@ -172,6 +173,7 @@ section {
         
 
         
+
 
 
 
